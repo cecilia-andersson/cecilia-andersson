@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cecilia-andersson
-- 👀 I’m interested in dipping my toes into coding
-- 🌱 I’m currently learning HTML5, CSS
-- 💞️ I’m looking to collaborate on anything for beginners
+- I'm excited to explore ways to use data to change the world, one script at a time
+- Working on projects involving HTML5/CSS, R, SQL :)
 
 
 <!---
