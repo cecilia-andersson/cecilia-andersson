@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @cecilia-andersson
-- I'm excited to explore ways to use data to change the world, one script at a time
-- Working on projects involving HTML5/CSS, R, SQL :)
 
 
 <!---
